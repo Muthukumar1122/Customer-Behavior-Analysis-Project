@@ -100,7 +100,3 @@ Consumer-Shopping-Behavior-Analysis/
 │
 └── README.md
 ```
-
-## 🚀 Project Outcome
-
-This project demonstrates an end-to-end data analytics workflow, from raw data preparation and exploratory analysis to SQL-based business analysis and interactive Power BI reporting. The final insights provide a data-driven understanding of consumer behavior that can support better marketing, customer engagement, and product strategy decisions.
